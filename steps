@@ -1,0 +1,5 @@
+Steps to be performed
+
+1. create an my sql server in local host and update the username and password in the main code file
+2. run streamlit in command prompt for the particular puthon file 
+3. open ur web browser and type in local host 
