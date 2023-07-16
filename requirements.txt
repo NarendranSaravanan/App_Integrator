@@ -1,0 +1,7 @@
+Streamlit == 1.14.0
+pandas == 1.3.3
+mysql.connector == 8.0.33
+datetime
+matplotlib
+selenium
+webdrivermanager
